@@ -13,6 +13,7 @@ namespace consoleappliation
     {
         static void Main(string[] args)
         {
+            // Test
             LinqTutorials linqTutorial = new LinqTutorials();
             Practise practise = new Practise();
             string result = practise.Triangle(5);
